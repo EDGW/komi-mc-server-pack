@@ -3,7 +3,7 @@
   "author": "EDGW_",
   "version": "1.0",
   "description": "",
-  "fileApi": "https://komi247.cn:11451/openlist/server/new-era",
+  "fileApi": "https://komi247.cn:11451/openlist/server-cached/komi-mc-server-pack/new-era",
   "files": [
     {
       "path": "config/aeronautics-server.toml",
