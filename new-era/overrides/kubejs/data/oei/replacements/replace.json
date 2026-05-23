@@ -1,0 +1,132 @@
+[
+  {
+    "matchItems": [
+      "kaleidoscope_cookery:tomato_seed",
+      "farm_and_charm:tomato_seeds"
+    ],
+    "resultItems": "farmersdelight:tomato_seeds"
+  },
+  {
+    "matchItems": [
+      "immersiveengineering:ingot_electrum"
+    ],
+    "resultItems": "createaddition:electrum_ingot"
+  },
+  {
+    "matchItems": [
+      "immersiveengineering:nugget_electrum"
+    ],
+    "resultItems": "createaddition:electrum_nugget"
+  },
+  {
+    "matchItems": [
+      "immersiveengineering:wire_electrum"
+    ],
+    "resultItems": "createaddition:electrum_wire"
+  },
+  {
+    "matchItems": [
+      "bakeries:flour",
+      "farm_and_charm:flour"
+    ],
+    "resultItems": "kaleidoscope_cookery:flour"
+  },
+  {
+    "matchItems": [
+      "farm_and_charm:lettuce"
+    ],
+    "resultItems": "kaleidoscope_cookery:lettuce"
+  },
+  {
+    "matchItems": [
+      "farm_and_charm:lettuce_seeds"
+    ],
+    "resultItems": "kaleidoscope_cookery:lettuce_seed"
+  },
+  {
+    "matchItems": [
+      "immersiveengineering:plate_iron"
+    ],
+    "resultItems": "create:iron_sheet"
+  },
+  {
+    "matchItems": [
+      "immersiveengineering:stick_iron"
+    ],
+    "resultItems": "createaddition:iron_rod"
+  },
+  {
+    "matchItems": [
+      "immersiveengineering:plate_copper"
+    ],
+    "resultItems": "create:copper_sheet"
+  },
+  {
+    "matchItems": [
+      "immersiveengineering:nugget_copper"
+    ],
+    "resultItems": "create:copper_nugget"
+  },
+  {
+    "matchItems": [
+      "immersiveengineering:wire_copper"
+    ],
+    "resultItems": "createaddition:copper_wire"
+  },
+  {
+    "matchItems": [
+      "powergrid:zinc_sheet"
+    ],
+    "resultItems": "createaddition:zinc_sheet"
+  },
+  {
+    "matchItems": [
+      "farm_and_charm:tomato",
+      "kaleidoscope_cookery:tomato",
+      "bakeries:tomato"
+    ],
+    "resultItems": "farmersdelight:tomato"
+  },
+  {
+    "matchItems": [
+      "farm_and_charm:wild_tomatoes"
+    ],
+    "resultItems": "farmersdelight:wild_tomatoes"
+  },
+  {
+    "matchItems": [
+      "farm_and_charm:rotten_tomato"
+    ],
+    "resultItems": "farmersdelight:rotten_tomato"
+  },
+  {
+    "matchItems": [
+      "immersiveengineering:plantoil_bucket"
+    ],
+    "resultItems": "createdieselgenerators:plant_oil_bucket"
+  },
+  {
+    "matchItems": [
+      "immersiveengineering:biodiesel_bucket"
+    ],
+    "resultItems": "createdieselgenerators:biodiesel_bucket"
+  },
+  {
+    "matchItems": [
+      "immersivepetroleum:diesel_bucket"
+    ],
+    "resultItems": "createdieselgenerators:diesel_bucket"
+  },
+  {
+    "matchItems": [
+      "immersivepetroleum:gasoline_bucket"
+    ],
+    "resultItems": "createdieselgenerators:gasoline_bucket"
+  },
+  {
+    "matchItems": [
+      "immersivepetroleum:crudeoil_bucket"
+    ],
+    "resultItems": "createdieselgenerators:crude_oil_bucket"
+  }
+]

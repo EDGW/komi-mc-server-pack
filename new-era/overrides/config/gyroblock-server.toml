@@ -1,0 +1,13 @@
+["Gyro Settings"]
+	#陀螺仪的基础应力消耗值
+	# Default: 512.0
+	# Range: 4.0 ~ 16384.0
+	gyroStress = 512.0
+	#最低运行转速限制
+	# Default: 256.0
+	# Range: 0.0 ~ 1024.0
+	minSpeed = 256.0
+	#稳定强度系数
+	# Default: 7.5
+	# Range: 0.1 ~ 100.0
+	stabilizationStrength = 7.5

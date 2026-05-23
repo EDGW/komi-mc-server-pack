@@ -1,0 +1,149 @@
+{
+	chapter.18F28F0D63315939.title: "启程！你好，新蒸程！"
+	chapter.1A4F4FEFA69506D5.title: "载具兑换"
+	chapter.2238BEDE60CB23FA.title: "火车"
+	chapter.250E34EF3BC0CABC.title: "柴油"
+	chapter.25858AAFC83D1615.title: "机械动力基础"
+	chapter.287BA2CF807935D9.title: "简单储存"
+	chapter.2B650370485D02F0.title: "美味烘焙"
+	chapter.36E2BA3F766A4E8F.title: "森罗玩偶"
+	chapter.48ADE9B48F05380F.title: "物流"
+	chapter.4BD524484B7B75A5.title: "电网"
+	chapter.4C13B9DD07C86FB1.title: "控制学"
+	chapter.53181AFCB6405EAA.title: "矿产"
+	chapter.5973D67EC3D70D30.title: "火炮"
+	chapter.5B37EF04AA3C2848.title: "喝啤酒啦"
+	chapter.5EC8AC2EE10EDD62.title: "电梯"
+	chapter.68522B40C4768E95.title: "机械动力越野"
+	chapter.6A881152EF97FA04.title: "森罗酒馆"
+	chapter.74BE5C98B21375B7.title: "龙虾家具"
+	chapter.784A70C90F6F5A49.title: "机械动力航空"
+	chapter.7C07A761EADF3908.title: "森罗厨房"
+	chapter.7D7A8EEC0E898ED8.title: "勤农耕种"
+	chapter_group.032D94FFF1828E6D.title: "机械动力+"
+	chapter_group.42DF9A8C445EFF86.title: "勤农暇事"
+	chapter_group.485E071B353FF153.title: "航空学！启航！"
+	quest.002FD7CF5ADF6B13.quest_desc: ["还是比较好获得的，悄悄告诉你，矿产那一章有很多刷怪笼哦"]
+	quest.002FD7CF5ADF6B13.quest_subtitle: "来当飞机引擎不错哦，当然怎么用随你qwq"
+	quest.002FD7CF5ADF6B13.title: "完成森罗酒馆系列任务可获得1个创造马达"
+	quest.0585FA396B31976E.title: "导航结构"
+	quest.0B71DD7F21BD41B8.quest_desc: [
+		"言昔时矮人技艺无双，"
+		"工匠们铸造无数宝藏，"
+		"铁锤落下，如钟回响，"
+		"响彻孤山下肃穆殿堂。"
+		""
+		"山谷之中警钟声洪亮，"
+		"致命的烈焰来自北方，"
+		"枪矛如林却不敌死亡，"
+		"史矛革盘踞孤山宝藏。"
+		""
+		"    或许可以找找那座叫“孤山”的山脉"
+	]
+	quest.0B71DD7F21BD41B8.quest_subtitle: "歌谣"
+	quest.0BC0ECD7689390CE.quest_desc: [
+		"&a.预加载区块儿&r"
+		"&6/chunky center 0 0&r  （填写要预加载的区块中心这里以0 0 0坐标为例，不需要写y坐标）"
+		"&6/chunky radius 5000&r （将区块儿半径设置为5000）任意值都行"
+		"&6/chunky start &r        （开始生成）"
+		"&6/chunky confirm&r     （最后输入这个）回车就可以生成了"
+		"&6/chunky pause&r       暂停并保存生成进度"
+		"&a3.但是此时voxy还没同步，输入&r"
+		"&6/voxy import world \"新的世界/\"&r&b你的存档名字&r"
+	]
+	quest.0BC0ECD7689390CE.quest_subtitle: "你好，这位MC玩家qwq"
+	quest.0DF667FDEDEAE513.quest_subtitle: "更好的开始！"
+	quest.0DF667FDEDEAE513.title: "完结撒花"
+	quest.1362BF80B30A47C0.title: "末地饮品"
+	quest.183C0503B134414D.quest_desc: ["做载具的第一步"]
+	quest.184A268802FEAB91.quest_desc: ["“斯科尔，雪怪”&4你的位置已暴露&r"]
+	quest.1928A866F69B214F.title: "低空经济？"
+	quest.1A61EC5C07F68CDF.quest_desc: ["上图教你咋更改转向架类型"]
+	quest.1A61EC5C07F68CDF.quest_subtitle: "手持本方块，按左alt选择转向架类型"
+	quest.1CC79D4E3469E40D.quest_desc: [
+		"寒雾自卡恩督笼罩而下，"
+		"阿塞丹的钟楼尽皆暗哑，"
+		"霜雾为息，寒冰为术，"
+		"安格玛巫王的恐怖爪牙。"
+		""
+		"小心那片致命的雪地"
+	]
+	quest.1CC79D4E3469E40D.quest_subtitle: "传说"
+	quest.1D4215C39195A874.title: "空岛汉堡店同款？"
+	quest.1D8FCCC7C46F3B94.quest_subtitle: "也能当轮子，不颠簸"
+	quest.1D8FCCC7C46F3B94.title: "这些也是轮子？！"
+	quest.1F74719E8E87A936.title: "连接物理结构"
+	quest.2A51ED2EBB07FF5A.quest_desc: [
+		"既非生，亦非亡，"
+		"盔甲下皆是虚茫，"
+		"唯有王冠宣告着，"
+		"他曾是王，"
+		"沉寂在地狱殿堂。"
+	]
+	quest.2A51ED2EBB07FF5A.quest_subtitle: "传奇"
+	quest.2F77B596E44C1449.quest_desc: ["&2按住&r&2“&r&4~&r&2”&r&2键启用连锁采集&r"]
+	quest.34455C4A9ED5D4B0.quest_desc: [
+		"石头磨粉=砂砾"
+		"砂砾磨粉=沙子"
+		"沙子缠魂=灵魂沙"
+		"鼓风机前面放上灵魂营火=缠魂处理"
+	]
+	quest.34455C4A9ED5D4B0.quest_subtitle: "水洗灵魂沙=石英"
+	quest.385634858C0C18CB.quest_subtitle: "右键放置，请面向东方放置"
+	quest.385634858C0C18CB.title: "飞机兑换"
+	quest.3BB0B425A8426F5B.quest_desc: [
+		"沙漠的旅人当小心为上，"
+		"赫鲁刚的枯骨白如霜月，"
+		"脚下的大地若微微震颤，"
+		"是死亡蛰伏苍茫的沙场。"
+	]
+	quest.3BB0B425A8426F5B.quest_subtitle: "故事"
+	quest.40BD81DF57EA7AC4.quest_desc: ["我们已经锁定到&e斯洛克沙虫的老巢&r"]
+	quest.466E34C2D3719C6E.quest_desc: ["&z赫尔瓦，冥界骑士&r：&4地狱迎战&r"]
+	quest.466E34C2D3719C6E.quest_subtitle: "一定要在下届领取本奖励，以便定位boss位置"
+	quest.466E34C2D3719C6E.title: "地狱饮品"
+	quest.4678713804568015.quest_desc: [
+		"为方便"
+		"生存模式制造和使用安装火炮"
+		"&2本整合包所有火炮均支持使用镐子挖掘收集，并且直接放置，即可自动连接为一个整体&r"
+	]
+	quest.48DD0FB4555B9FFC.title: "调香师"
+	quest.4AF87EC3AC051827.quest_subtitle: "砂砾+燧石+岩浆（辊压）=安山岩"
+	quest.4B4CF422531E3434.title: "面包大亨"
+	quest.517660F1B740DD00.quest_subtitle: "火药制造商"
+	quest.53EDD34C46FA32BC.quest_subtitle: "做蛋糕，面包喽"
+	quest.53EDD34C46FA32BC.title: "蛋糕师就位"
+	quest.54323E0AA546064D.quest_desc: ["以便进一步加工蛋糕"]
+	quest.54323E0AA546064D.quest_subtitle: "手持面包面团右键烘焙台"
+	quest.54323E0AA546064D.title: "和面团"
+	quest.5526DED42EC4192C.quest_subtitle: "手持果酱右键蛋糕胚"
+	quest.55695BB0689DA42D.title: "终于可以开飞机喽"
+	quest.55D8F88A98690682.quest_subtitle: "手持果酱右键蛋糕胚"
+	quest.577D6D40DC96E56E.quest_desc: ["做自动化农场必备，现在有了航空学可以做联合收割机了"]
+	quest.5AEEB8459F040895.title: "开奶茶店"
+	quest.5C8DB33EFFBA39B7.title: "啤酒杯"
+	quest.5E0817E5C707248D.quest_desc: [
+		"&9放第一章是有原因的&r（让你不用再翻箱倒柜）"
+		"将&6储存连接器&r放置在&e储物方块儿&r的旁边（紧邻放置）再在。&6储存驱动器&r任意一面放上&4储存终端&r，右键打开&4储存终端&r就可以管理你的所有物品"
+	]
+	quest.5F9E9900C12EE80D.quest_subtitle: "小体积引擎"
+	quest.5F9E9900C12EE80D.title: "比柴油引擎方便"
+	quest.633D2AF763180A8A.quest_desc: ["&4阿什洛德，炼狱飞龙&r：&1我就在这高塔之上&r"]
+	quest.633D2AF763180A8A.quest_subtitle: "已经定位到阿什洛德的位置"
+	quest.633D2AF763180A8A.title: "全能农夫"
+	quest.63872720DEF2C57E.quest_desc: ["由于控制学4月27号晚上发布，整合包计划28号发布，非常抱歉，实在没有时间汉化添加配方，后续版本会补全"]
+	quest.63883401BDF609D5.quest_desc: ["前期就可以搓，一定要趁早哦，现在鼓风机可以当引擎了为飞船提供动力了，配合分散网更佳qwq''"]
+	quest.6C76279D281E81EE.quest_subtitle: "这真的有用吗？呃呃呃"
+	quest.6C76279D281E81EE.title: "完成喝啤酒啦系列任务可获得一个创造电池"
+	quest.71A8CD17950F9E7E.quest_subtitle: "聪明的你一定知道干啥用的吧qwq"
+	quest.71A8CD17950F9E7E.title: "还是热气球惬意"
+	quest.73F1744E445233BD.quest_subtitle: "手持果酱右键蛋糕胚"
+	quest.752D0C3E34CF768A.quest_desc: ["要好好规划哦"]
+	quest.752D0C3E34CF768A.quest_subtitle: "=两个满级炉子"
+	quest.752D0C3E34CF768A.title: "完成指定任务共可获得36个创造烈焰人蛋糕"
+	quest.7818FB2BE5D56A74.title: "送你一辆拖拉机"
+	quest.7A0E10A23849851E.title: "轮子"
+	quest.7A655F9DDF4C1260.title: "烘焙大师"
+	quest.7CBB4BEDE188F870.title: "饭菜上桌喽"
+	task.1BF54FD1E2C657FF.title: "欢迎来到新“蒸”程"
+}

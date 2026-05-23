@@ -1,0 +1,12 @@
+#The minimum adjustable weight for the Redstone Mass Energy Converter
+# Default: 1
+# Range: 1 ~ 1024
+redstone_mass_energy_converter_min_mass = 1
+#The maximum adjustable weight for the Redstone Mass Energy Converter
+# Default: 100
+# Range: 1 ~ 1024
+redstone_mass_energy_converter_max_mass = 100
+#The maximum size for physics staff allowed control
+# Default: 32768
+# Range: 4096 ~ 1073741824
+physics_staff_allowed_max_control_size = 32768

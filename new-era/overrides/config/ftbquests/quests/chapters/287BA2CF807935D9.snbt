@@ -1,0 +1,134 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "287BA2CF807935D9"
+	group: "42DF9A8C445EFF86"
+	icon: {
+		id: "toms_storage:adv_wireless_terminal"
+	}
+	id: "287BA2CF807935D9"
+	images: [
+		{
+			click: "https://www.bilibili.com/video/BV1Z8411E7N5?t=2.2"
+			height: 15.0d
+			hover: ["文字讲解太多了，我要看视频教程！"]
+			image: "create:block/belt/yellow_diagonal_scroll"
+			rotation: 90.0d
+			width: 8.0d
+			x: 1.0d
+			y: -0.5d
+		}
+		{
+			height: 15.0d
+			image: "create:block/belt/yellow_diagonal_scroll"
+			rotation: 90.0d
+			width: 8.0d
+			x: 13.5d
+			y: -0.5d
+		}
+		{
+			height: 15.0d
+			image: "create:block/belt/yellow_diagonal_scroll"
+			rotation: 90.0d
+			width: 8.0d
+			x: -10.5d
+			y: -0.5d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "5E0817E5C707248D"
+			rewards: [{
+				count: 64
+				id: "4D26B9F77C867A33"
+				item: {
+					count: 1
+					id: "minecraft:barrel"
+				}
+				type: "item"
+			}]
+			shape: "none"
+			size: 2.0d
+			tasks: [{
+				id: "7EE078A9CF04961B"
+				item: { count: 1, id: "toms_storage:inventory_connector" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["5E0817E5C707248D"]
+			id: "35AEEFB438A127B5"
+			shape: "none"
+			size: 2.0d
+			tasks: [{
+				id: "26284363B93F8997"
+				item: { count: 1, id: "toms_storage:crafting_terminal" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["35AEEFB438A127B5"]
+			id: "48C42E5C994F1FCF"
+			rewards: [{
+				count: 16
+				id: "0DC0CFB71FBEBDA3"
+				item: {
+					count: 1
+					id: "minecraft:amethyst_shard"
+				}
+				type: "item"
+			}]
+			shape: "none"
+			size: 2.0d
+			tasks: [{
+				id: "1B21B8011EA7FA1F"
+				item: { count: 1, id: "toms_storage:wireless_terminal" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["48C42E5C994F1FCF"]
+			id: "184A268802FEAB91"
+			rewards: [
+				{
+					id: "57C423A7C49FB251"
+					item: {
+						count: 1
+						id: "minecraft:netherite_ingot"
+					}
+					type: "item"
+				}
+				{
+					command: "/locate structure block_factorys_bosses:yeti_hideout"
+					icon: {
+						components: {
+							"minecraft:custom_data": {
+								itemKey: "5d6eb63b-b99f-408e-b32c-d59643b8a85a"
+							}
+						}
+						id: "block_factorys_bosses:ice_gauntlet"
+					}
+					id: "72CB9C755216E324"
+					type: "command"
+				}
+			]
+			shape: "none"
+			size: 2.0d
+			tasks: [{
+				id: "0476F0E0A4451949"
+				item: { count: 1, id: "toms_storage:adv_wireless_terminal" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 0.0d
+		}
+	]
+}

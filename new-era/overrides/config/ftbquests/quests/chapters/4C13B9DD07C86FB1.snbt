@@ -1,0 +1,166 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "4C13B9DD07C86FB1"
+	group: "485E071B353FF153"
+	icon: {
+		id: "synaxis:dynamic_joint_motor"
+	}
+	id: "4C13B9DD07C86FB1"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: true
+			id: "63872720DEF2C57E"
+			rewards: [
+				{
+					id: "180C9D209DC0DAE6"
+					item: {
+						count: 1
+						id: "synaxis:dynamic_joint_motor"
+					}
+					type: "item"
+				}
+				{
+					id: "315AA6EF2B895711"
+					item: {
+						count: 1
+						id: "synaxis:propeller_blade"
+					}
+					type: "item"
+				}
+				{
+					id: "19E40BC63E9BC371"
+					item: {
+						count: 1
+						id: "synaxis:dynamic_revolute_motor"
+					}
+					type: "item"
+				}
+				{
+					id: "21B30E23EFD51AE0"
+					item: {
+						count: 1
+						id: "synaxis:kinetic_resistor"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0CF0D54F9FC9C09F"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.5d
+		}
+		{
+			can_repeat: true
+			id: "61414FAE95478674"
+			rewards: [
+				{
+					id: "6254FCF5B21090DA"
+					item: {
+						count: 1
+						id: "synaxis:anchor"
+					}
+					type: "item"
+				}
+				{
+					id: "4236A7212C017E5F"
+					item: {
+						count: 1
+						id: "synaxis:awe_in_wand"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "66A9934D4E66688C"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: 0.5d
+		}
+		{
+			can_repeat: true
+			id: "33DA0E8B8C7A7EF8"
+			rewards: [
+				{
+					id: "49EE3086CAF548AD"
+					item: {
+						count: 1
+						id: "synaxis:compact_flap"
+					}
+					type: "item"
+				}
+				{
+					id: "5DAD080CB2908F5E"
+					item: {
+						count: 1
+						id: "synaxis:jet"
+					}
+					type: "item"
+				}
+				{
+					id: "3A3A76C173E7C796"
+					item: {
+						count: 1
+						id: "synaxis:jet_rudder"
+					}
+					type: "item"
+				}
+				{
+					id: "7CC5FC6782B1D85E"
+					item: {
+						count: 1
+						id: "synaxis:propeller"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3194F0497776FB3D"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: 0.5d
+		}
+		{
+			can_repeat: true
+			id: "3C5AC4FBB98AAC1A"
+			rewards: [
+				{
+					id: "45181C053F3B6388"
+					item: {
+						count: 1
+						id: "synaxis:control_chair"
+					}
+					type: "item"
+				}
+				{
+					id: "2721E73AC81FE02D"
+					item: {
+						count: 1
+						id: "synaxis:tweakerminal"
+					}
+					type: "item"
+				}
+				{
+					id: "716FE47B85FDE7AB"
+					item: {
+						count: 1
+						id: "synaxis:control_chair"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4542AF922F8C7B3D"
+				type: "checkmark"
+			}]
+			x: 4.5d
+			y: 0.5d
+		}
+	]
+}

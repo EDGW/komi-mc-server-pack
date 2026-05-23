@@ -1,0 +1,1022 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "36E2BA3F766A4E8F"
+	group: "42DF9A8C445EFF86"
+	icon: {
+		components: {
+			"kaleidoscope_doll:doll_entity": {
+				custom_doll_id: "geometry.normal_winefox"
+			}
+		}
+		id: "kaleidoscope_doll:doll_entity_item"
+	}
+	id: "36E2BA3F766A4E8F"
+	images: [{
+		height: 1.0d
+		image: "kaleidoscope_doll:item/doll_icon"
+		rotation: 0.0d
+		width: 1.0d
+		x: 1.0d
+		y: -1.0d
+	}]
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			id: "78D61226CE311D56"
+			rewards: [{
+				count: 10
+				id: "1ADE6038F3CBFC28"
+				item: {
+					count: 1
+					id: "minecraft:diamond"
+				}
+				type: "item"
+			}]
+			size: 1.5d
+			tasks: [{
+				id: "20C1579FC410C13B"
+				item: { count: 1, id: "kaleidoscope_doll:doll_machine" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -1.0d
+		}
+		{
+			id: "6E51126DD9AD84EE"
+			rewards: [{
+				id: "059F660F2BFA7516"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "1392B9315AB81955"
+				item: { count: 1, id: "kaleidoscope_doll:doll_25" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			id: "101F74CBE9B03931"
+			rewards: [{
+				id: "6B10620F1A486E68"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "42691390D7170C91"
+				item: { count: 1, id: "kaleidoscope_doll:doll_26" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			id: "094F57146D086FCF"
+			rewards: [{
+				id: "4EB6A70D15FE0481"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6526740DDA929483"
+				item: { count: 1, id: "kaleidoscope_doll:doll_27" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			id: "0237E435D98E49E0"
+			rewards: [{
+				id: "1FCB4E2F6D6AC2FA"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6F61E6B333FB182E"
+				item: { count: 1, id: "kaleidoscope_doll:doll_28" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			id: "032535D0ECBC262D"
+			rewards: [{
+				id: "5E92D6923742841B"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "5495B5C56748CCCF"
+				item: { count: 1, id: "kaleidoscope_doll:doll_8" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			id: "16E13A4D00F8C8AA"
+			rewards: [{
+				id: "072ACF2A2616107E"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "0572BEBF5B2CCCC3"
+				item: { count: 1, id: "kaleidoscope_doll:doll_7" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			id: "4E8CCCD4DF68EA1A"
+			rewards: [{
+				id: "0DB649BA65832F6D"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "7D10E6135E091EE4"
+				item: { count: 1, id: "kaleidoscope_doll:doll_5" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 0.0d
+		}
+		{
+			id: "04100679A181B59D"
+			rewards: [{
+				id: "3052DABE7C9A43ED"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "058306197D0E2ED4"
+				item: { count: 1, id: "kaleidoscope_doll:doll_6" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 1.5d
+		}
+		{
+			id: "457C524C498EF0A7"
+			rewards: [{
+				id: "07195336C210B8C5"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "3DB0137162C0CD79"
+				item: { count: 1, id: "kaleidoscope_doll:doll_4" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 1.5d
+		}
+		{
+			id: "50B1B120C9D2B454"
+			rewards: [{
+				id: "31F05A3FBE247B8C"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "3C5DB8FB185DD564"
+				item: { count: 1, id: "kaleidoscope_doll:doll_3" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 1.5d
+		}
+		{
+			id: "56D1C582236DD276"
+			rewards: [{
+				id: "1560B277C9E02A82"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "0BDD716C8369C92D"
+				item: { count: 1, id: "kaleidoscope_doll:doll_2" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			id: "5DC3362D1BC6BB1C"
+			rewards: [{
+				id: "65A4A4E8FB6ADCD4"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "79EB550AD27DEA05"
+				item: { count: 1, id: "kaleidoscope_doll:doll_15" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 1.5d
+		}
+		{
+			id: "68942EBFB78DB829"
+			rewards: [{
+				id: "329675ECF09EBDA8"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "67998A151B9BC5C0"
+				item: { count: 1, id: "kaleidoscope_doll:doll_13" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 1.5d
+		}
+		{
+			id: "491A5C6017685295"
+			rewards: [{
+				id: "753B07971342FDC5"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "2921BD18EDE5CA61"
+				item: { count: 1, id: "kaleidoscope_doll:doll_14" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 1.5d
+		}
+		{
+			id: "706C701B961C45EC"
+			rewards: [{
+				id: "3A15F988D1CFE0BC"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "78963124722CCD9D"
+				item: { count: 1, id: "kaleidoscope_doll:doll_12" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 3.0d
+		}
+		{
+			id: "231C4D2EEDE6DD78"
+			rewards: [{
+				id: "6B18C85D74083963"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "1D470C2B44E4F462"
+				item: { count: 1, id: "kaleidoscope_doll:doll_11" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 3.0d
+		}
+		{
+			id: "689E0C4E80A0DDBF"
+			rewards: [{
+				id: "070C888AC77FDEE0"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6799DCA8FF38C2CF"
+				item: { count: 1, id: "kaleidoscope_doll:doll_9" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 3.0d
+		}
+		{
+			id: "27665C03C50A0734"
+			rewards: [{
+				id: "4DFD62601352F98A"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "4CBF011460028CB6"
+				item: { count: 1, id: "kaleidoscope_doll:doll_10" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			id: "00D517386DBF05F6"
+			rewards: [{
+				id: "53BC1286EB5368E4"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "02B55AE22CA542B5"
+				item: { count: 1, id: "kaleidoscope_doll:doll_17" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 3.0d
+		}
+		{
+			id: "3AE1B6C248A2A425"
+			rewards: [{
+				id: "50E59319B8199B05"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "363FC13EEC7CDDA3"
+				item: { count: 1, id: "kaleidoscope_doll:doll_24" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			id: "6C6E49A6EC90E049"
+			rewards: [{
+				id: "6D26D4F396687639"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "75A9ED1BB374A870"
+				item: { count: 1, id: "kaleidoscope_doll:doll_23" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 3.0d
+		}
+		{
+			id: "1C98CD598525336C"
+			rewards: [{
+				id: "3374F36510F604D8"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "7FD42B4F7340C57F"
+				item: { count: 1, id: "kaleidoscope_doll:doll_22" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 4.5d
+		}
+		{
+			id: "5FACCEA82DD89281"
+			rewards: [{
+				id: "5FFD4DF2F71F77FC"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "1DEF459760D478A9"
+				item: { count: 1, id: "kaleidoscope_doll:doll_21" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 4.5d
+		}
+		{
+			id: "6EA1FF8FE0C43CAF"
+			rewards: [{
+				id: "6ED93AE6D2E7ACF8"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "78C3F6325C4165BB"
+				item: { count: 1, id: "kaleidoscope_doll:doll_20" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 4.5d
+		}
+		{
+			id: "2CE4927FF0AF699E"
+			rewards: [{
+				id: "30F84804B5912CA3"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6F1C1F916341D9AE"
+				item: { count: 1, id: "kaleidoscope_doll:doll_18" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 4.5d
+		}
+		{
+			id: "317CCE4E1D112020"
+			rewards: [{
+				id: "7C8DBEFD2C9D0175"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "7939E39BDC96741E"
+				item: { count: 1, id: "kaleidoscope_doll:doll_19" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 4.5d
+		}
+		{
+			id: "659328C36A68934A"
+			rewards: [{
+				id: "7D830FD53A674465"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "58D39E996AB344BE"
+				item: { count: 1, id: "kaleidoscope_doll:doll_33" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 4.5d
+		}
+		{
+			id: "3767D10E7BBB9223"
+			rewards: [{
+				id: "41A248E0F4DF9003"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "656114E142FACC7D"
+				item: { count: 1, id: "kaleidoscope_doll:doll_32" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 4.5d
+		}
+		{
+			id: "52DB4F5C2F715BC0"
+			rewards: [{
+				id: "7BD943C1CAEFF796"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "11574A97790734EC"
+				item: { count: 1, id: "kaleidoscope_doll:doll_31" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 6.0d
+		}
+		{
+			id: "3225FC19AACB83F4"
+			rewards: [{
+				id: "5D9C1EF84429BBC2"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "2E470D2B4D7E0A45"
+				item: { count: 1, id: "kaleidoscope_doll:doll_30" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 6.0d
+		}
+		{
+			id: "402C2C17ACEEA6F9"
+			rewards: [{
+				id: "5D4FA72670599263"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "39C7AB2418983960"
+				item: { count: 1, id: "kaleidoscope_doll:doll_29" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 6.0d
+		}
+		{
+			id: "397CFAB363E03C41"
+			rewards: [{
+				id: "05742FB7EF7E60A4"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "5DC34A3A263C7757"
+				item: { count: 1, id: "kaleidoscope_doll:doll_16" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 6.0d
+		}
+		{
+			id: "5E77DAE62D2985AA"
+			rewards: [{
+				id: "52C1191BC1271E9D"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "2536A2E119ECFE6E"
+				item: { count: 1, id: "kaleidoscope_doll:doll_61" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 6.0d
+		}
+		{
+			id: "40508160C40835CA"
+			rewards: [{
+				id: "236BABDBBD8CE47F"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "09A2E142D91D31B5"
+				item: { count: 1, id: "kaleidoscope_doll:doll_62" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 6.0d
+		}
+		{
+			id: "32494B65FFC442E2"
+			rewards: [{
+				id: "765EA72E45568640"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "403B56DAFCE2AFF0"
+				item: { count: 1, id: "kaleidoscope_doll:doll_63" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 6.0d
+		}
+		{
+			id: "70A21C9BA03239FF"
+			rewards: [{
+				id: "55DB7A36A22FDEDE"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "31B35BE4959BA87D"
+				item: { count: 1, id: "kaleidoscope_doll:doll_64" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 7.5d
+		}
+		{
+			id: "56FEA5A79F1A612A"
+			rewards: [{
+				id: "6C009C3DFEAF849A"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "1EC2BDCDE34EB8DB"
+				item: { count: 1, id: "kaleidoscope_doll:doll_65" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 7.5d
+		}
+		{
+			id: "2DE317E954C025BB"
+			rewards: [{
+				id: "39F02FA52E8C1568"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "33D3158CEA00E725"
+				item: { count: 1, id: "kaleidoscope_doll:doll_66" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 7.5d
+		}
+		{
+			id: "748A272C0026D716"
+			rewards: [{
+				id: "3E2B241BA79B1EE6"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "2A8125829C8FB51B"
+				item: { count: 1, id: "kaleidoscope_doll:doll_40" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 7.5d
+		}
+		{
+			id: "6837B272CDFC895F"
+			rewards: [{
+				id: "556DEB74F75A9732"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "589C14A71A6C2E6F"
+				item: { count: 1, id: "kaleidoscope_doll:doll_41" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 7.5d
+		}
+		{
+			id: "121B7F89B91AF74D"
+			rewards: [{
+				id: "4899047C46DF87D9"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "015516AF394FD699"
+				item: { count: 1, id: "kaleidoscope_doll:doll_39" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 7.5d
+		}
+		{
+			id: "5448188A106C5508"
+			rewards: [{
+				id: "7503242FF0CA564F"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "0B8811E731502E18"
+				item: { count: 1, id: "kaleidoscope_doll:doll_38" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 7.5d
+		}
+		{
+			id: "00437DA8FE2BFE69"
+			rewards: [{
+				id: "38F3F618096B42CB"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "4F3261EDFF07D8F3"
+				item: { count: 1, id: "kaleidoscope_doll:doll_37" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 9.0d
+		}
+		{
+			id: "3EE794F24A6BE4A0"
+			rewards: [{
+				id: "2D324C696E4F77AF"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "66FC98C72CDC4569"
+				item: { count: 1, id: "kaleidoscope_doll:doll_36" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 9.0d
+		}
+		{
+			id: "299DC16D4FBA45E0"
+			rewards: [{
+				id: "5DE272DF0E3C7FC2"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "3A64A608FD8675E4"
+				item: { count: 1, id: "kaleidoscope_doll:doll_35" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 9.0d
+		}
+		{
+			id: "3F9A5336245C478A"
+			rewards: [{
+				id: "756BB3FC347D7A0F"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "413FCEF0E9F0A568"
+				item: { count: 1, id: "kaleidoscope_doll:doll_34" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 9.0d
+		}
+		{
+			id: "5DFDE5233DDE5192"
+			rewards: [{
+				id: "7C6148D2D1BEB6DB"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "7BFE4B9528F7E2D0"
+				item: { count: 1, id: "kaleidoscope_doll:doll_42" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 9.0d
+		}
+		{
+			id: "07E13A24DC2757C5"
+			rewards: [{
+				id: "57FE17713CFF07F9"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "1F91AC4D17DDAE66"
+				item: { count: 1, id: "kaleidoscope_doll:doll_50" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 9.0d
+		}
+		{
+			id: "0AEFE0A49B8175B2"
+			rewards: [{
+				id: "03A904FB4A2C5DA6"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "673B83A9A693B970"
+				item: { count: 1, id: "kaleidoscope_doll:doll_48" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 9.0d
+		}
+		{
+			id: "72A9C8852A5A6778"
+			rewards: [{
+				id: "3B4EF44BB48E42EE"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "4CF3621AFD46886F"
+				item: { count: 1, id: "kaleidoscope_doll:doll_49" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 10.5d
+		}
+		{
+			id: "1E9B9997B9EC6EEF"
+			rewards: [{
+				id: "400B871F63045EAE"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "1F02DD01A7EFA0E0"
+				item: { count: 1, id: "kaleidoscope_doll:doll_47" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 10.5d
+		}
+		{
+			id: "14912C0326F5EA39"
+			rewards: [{
+				id: "572DEE40EF06D9F9"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "5601596E95CC5E50"
+				item: { count: 1, id: "kaleidoscope_doll:doll_45" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 10.5d
+		}
+		{
+			id: "0ACC7E55DFC47360"
+			rewards: [{
+				id: "4D5CAF58B2D6A937"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6CACB593AC0B67EB"
+				item: { count: 1, id: "kaleidoscope_doll:doll_46" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 10.5d
+		}
+		{
+			id: "69CFC1DE6B9A9B66"
+			rewards: [{
+				id: "1F9BE37D12B12297"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "4D7E6C6A00C5D107"
+				item: { count: 1, id: "kaleidoscope_doll:doll_44" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 10.5d
+		}
+		{
+			id: "72DF40444D0BC089"
+			rewards: [{
+				id: "6F62A580E213CD7C"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "73D6AF9CB546CDEE"
+				item: { count: 1, id: "kaleidoscope_doll:doll_43" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 10.5d
+		}
+		{
+			id: "767879AA707F14F6"
+			rewards: [{
+				id: "474A87E5AADD656E"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "5DC376713213AF64"
+				item: { count: 1, id: "kaleidoscope_doll:doll_51" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 10.5d
+		}
+		{
+			id: "0DE820D8399C441E"
+			rewards: [{
+				id: "2F3F0B8A20E87489"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "51EE85CE2FB9B27C"
+				item: { count: 1, id: "kaleidoscope_doll:doll_59" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 12.0d
+		}
+		{
+			id: "210BEF0F3B4D345A"
+			rewards: [{
+				id: "311F71D2D5349828"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "3F5FBDAAB4DBFB0B"
+				item: { count: 1, id: "kaleidoscope_doll:doll_52" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 12.0d
+		}
+		{
+			id: "422FEE17D03049D2"
+			rewards: [{
+				id: "1033CFA61EA32444"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "7597883DB83B6988"
+				item: { count: 1, id: "kaleidoscope_doll:doll_58" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 12.0d
+		}
+		{
+			id: "00EF515CA2136849"
+			rewards: [{
+				id: "0D3F1C24EE8141BF"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "517259544CD09A19"
+				item: { count: 1, id: "kaleidoscope_doll:doll_53" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 12.0d
+		}
+		{
+			id: "733D45D14BAB4F25"
+			rewards: [{
+				id: "1EAA5C2ACD9D181E"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "256670AB52CC0D0A"
+				item: { count: 1, id: "kaleidoscope_doll:doll_57" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 12.0d
+		}
+		{
+			id: "4B505C0D405C22CF"
+			rewards: [{
+				id: "42F19F8A4D6D4D37"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "1C593ABA120033CD"
+				item: { count: 1, id: "kaleidoscope_doll:doll_56" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 12.0d
+		}
+		{
+			id: "5D280F44BE0F48C3"
+			rewards: [{
+				id: "5FF01D1EC1B95BF3"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "5A503C2301D5404D"
+				item: { count: 1, id: "kaleidoscope_doll:doll_55" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 12.0d
+		}
+		{
+			id: "478AC8C92C1C9034"
+			rewards: [{
+				id: "180D70982AD9E332"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "66B16E8FBFBF3719"
+				item: { count: 1, id: "kaleidoscope_doll:doll_54" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 13.5d
+		}
+		{
+			id: "7FE7CA71F2B4C852"
+			rewards: [{
+				id: "43F3371522003172"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "1CD351E43FDD709C"
+				item: { count: 1, id: "kaleidoscope_doll:doll_60" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 13.5d
+		}
+	]
+}

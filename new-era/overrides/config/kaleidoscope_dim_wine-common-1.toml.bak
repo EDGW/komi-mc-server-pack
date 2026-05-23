@@ -1,0 +1,55 @@
+["Twilightforest Entity Loot"]
+	#Chance for Redcap to drop Goblin Essence with no Looting (0.0 to 1.0)
+	#红帽矮人和红帽工兵无抢夺时掉落哥布林精华的概率（0.0 到 1.0）
+	# Default: 0.15
+	# Range: 0.0 ~ 1.0
+	redcapGoblinEssenceChanceLevel0 = 0.15
+	#Chance for Redcap to drop Goblin Essence with Looting I (0.0 to 1.0)
+	#红帽矮人和红帽工兵抢夺 I 时掉落哥布林精华的概率（0.0 到 1.0）
+	# Default: 0.2
+	# Range: 0.0 ~ 1.0
+	redcapGoblinEssenceChanceLevel1 = 0.2
+	#Chance for Redcap to drop Goblin Essence with Looting II (0.0 to 1.0)
+	#红帽矮人和红帽工兵抢夺 II 时掉落哥布林精华的概率（0.0 到 1.0）
+	# Default: 0.25
+	# Range: 0.0 ~ 1.0
+	redcapGoblinEssenceChanceLevel2 = 0.25
+	#Chance for Redcap to drop Goblin Essence with Looting III (0.0 to 1.0)
+	#红帽矮人和红帽工兵抢夺 III 时掉落哥布林精华的概率（0.0 到 1.0）
+	# Default: 0.3
+	# Range: 0.0 ~ 1.0
+	redcapGoblinEssenceChanceLevel3 = 0.3
+	#Minimum bonus drops per Looting level for Redcap and Redcap Sapper
+	#红帽矮人和红帽工兵每级抢夺额外掉落的最小数量
+	# Default: 0
+	# Range: 0 ~ 10
+	redcapLootingBonusMin = 0
+	#Maximum bonus drops per Looting level for Redcap and Redcap Sapper
+	#红帽矮人和红帽工兵每级抢夺额外掉落的最大数量
+	# Default: 1
+	# Range: 0 ~ 10
+	redcapLootingBonusMax = 1
+
+["Anvil Drop Recipes"]
+	#Minimum output amount when converting Tuff to Carbocretin Powder via Anvil Drop (set both min and max to 0 to disable)
+	#铁砧掉落将凝灰岩转换为凝碳粉时的最小产出数量（将最小和最大都设为0可禁用该配方）
+	# Default: 1
+	# Range: 0 ~ 64
+	anvilTuffToCarbocretinMinOutput = 1
+	#Maximum output amount when converting Tuff to Carbocretin Powder via Anvil Drop (set both min and max to 0 to disable)
+	#铁砧掉落将凝灰岩转换为凝碳粉时的最大产出数量（将最小和最大都设为0可禁用该配方）
+	# Default: 3
+	# Range: 0 ~ 64
+	anvilTuffToCarbocretinMaxOutput = 3
+
+["Easter Eggs"]
+	#Chance to drop String Lights(Bedrock) when falling on Bedrock (0.0 to 1.0)
+	#摔落在基岩上掉落小灯串(基岩)的概率（0.0 到 1.0）
+	# Default: 0.015
+	# Range: 0.0 ~ 1.0
+	bedrockFallDropChance = 0.015
+	#Chance for Wither to drop String Lights(Command Block) (0.0 to 1.0)
+	#凋灵掉落小灯串(命令方块)的概率（0.0 到 1.0）
+	# Default: 0.015
+	# Range: 0.0 ~ 1.0
+	witherCommandLightsDropChance = 0.015

@@ -1,0 +1,286 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "1A4F4FEFA69506D5"
+	group: ""
+	icon: {
+		id: "create:schematic_and_quill"
+	}
+	id: "1A4F4FEFA69506D5"
+	images: [
+		{
+			height: 2.0d
+			image: "mcshaying:textures/31.png"
+			order: 1
+			rotation: 0.0d
+			width: 3.0d
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			height: 4.0d
+			hover: [
+				"设计："
+				"b站up -Jx3-"
+			]
+			image: "create:block/bogey/particle"
+			rotation: 0.0d
+			width: 4.0d
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			height: 15.0d
+			image: "immersiveengineering:textures/models/blueprint_frame.png"
+			order: -1
+			rotation: 0.0d
+			width: 25.0d
+			x: 12.0d
+			y: 3.0d
+		}
+		{
+			height: 4.0d
+			image: "create:block/bogey/particle"
+			rotation: 0.0d
+			width: 4.0d
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			height: 4.0d
+			image: "create:block/bogey/particle"
+			rotation: 0.0d
+			width: 4.0d
+			x: 12.0d
+			y: 0.0d
+		}
+		{
+			height: 4.0d
+			image: "create:block/bogey/particle"
+			rotation: 0.0d
+			width: 4.0d
+			x: 16.0d
+			y: 0.0d
+		}
+		{
+			height: 4.0d
+			image: "create:block/bogey/particle"
+			rotation: 0.0d
+			width: 4.0d
+			x: 20.0d
+			y: 0.0d
+		}
+		{
+			height: 4.0d
+			image: "create:block/bogey/particle"
+			rotation: 0.0d
+			width: 4.0d
+			x: 4.0d
+			y: 3.5d
+		}
+		{
+			height: 4.0d
+			image: "create:block/bogey/particle"
+			rotation: 0.0d
+			width: 4.0d
+			x: 4.0d
+			y: 7.0d
+		}
+		{
+			height: 4.0d
+			image: "create:block/bogey/particle"
+			rotation: 0.0d
+			width: 4.0d
+			x: 8.0d
+			y: 3.5d
+		}
+		{
+			height: 4.0d
+			image: "create:block/bogey/particle"
+			rotation: 0.0d
+			width: 4.0d
+			x: 12.0d
+			y: 3.5d
+		}
+		{
+			height: 4.0d
+			image: "create:block/bogey/particle"
+			rotation: 0.0d
+			width: 4.0d
+			x: 16.0d
+			y: 3.5d
+		}
+		{
+			height: 4.0d
+			image: "create:block/bogey/particle"
+			rotation: 0.0d
+			width: 4.0d
+			x: 20.0d
+			y: 3.5d
+		}
+		{
+			height: 4.0d
+			hover: [
+				"设计："
+				"b站up -Jx3-"
+			]
+			image: "create:block/bogey/particle"
+			rotation: 0.0d
+			width: 4.0d
+			x: 8.0d
+			y: 7.0d
+		}
+		{
+			height: 4.0d
+			image: "create:block/bogey/particle"
+			rotation: 0.0d
+			width: 4.0d
+			x: 12.0d
+			y: 7.0d
+		}
+		{
+			height: 4.0d
+			image: "create:block/bogey/particle"
+			rotation: 0.0d
+			width: 4.0d
+			x: 16.0d
+			y: 7.0d
+		}
+		{
+			height: 4.0d
+			image: "create:block/bogey/particle"
+			rotation: 0.0d
+			width: 4.0d
+			x: 20.0d
+			y: 7.0d
+		}
+	]
+	order_index: 2
+	quest_links: [ ]
+	quests: [{
+		can_repeat: true
+		icon: {
+			id: "create:white_sail"
+		}
+		id: "385634858C0C18CB"
+		rewards: [{
+			id: "2E62E41EBDA8F2CB"
+			item: {
+				count: 1
+				id: "hello_new_generation_core:aaa"
+			}
+			type: "item"
+		}]
+		tasks: [
+			{
+				consume_items: true
+				count: 17L
+				id: "7BC06D86FAB6E1E3"
+				item: { count: 1, id: "create:redstone_link" }
+				type: "item"
+			}
+			{
+				consume_items: true
+				count: 10L
+				id: "6FF81176045FE288"
+				item: { count: 1, id: "create:encased_chain_drive" }
+				type: "item"
+			}
+			{
+				consume_items: true
+				count: 61L
+				id: "3B36FDD97B6DAA92"
+				item: { count: 1, id: "create:white_sail" }
+				type: "item"
+			}
+			{
+				consume_items: true
+				count: 2L
+				id: "61FD6FE0A6376BC8"
+				item: { count: 1, id: "create:vertical_gearbox" }
+				type: "item"
+			}
+			{
+				consume_items: true
+				count: 3L
+				id: "6152A8BBF88F16E9"
+				item: { count: 1, id: "simulated:directional_gearshift" }
+				type: "item"
+			}
+			{
+				consume_items: true
+				count: 4L
+				id: "362CAB1E38A3C0DC"
+				item: { count: 1, id: "offroad:wheel_mount" }
+				type: "item"
+			}
+			{
+				consume_items: true
+				count: 4L
+				id: "5479315831FDCBA6"
+				item: { count: 1, id: "offroad:small_tire" }
+				type: "item"
+			}
+			{
+				consume_items: true
+				count: 2L
+				id: "33B6723D0344D460"
+				item: { count: 1, id: "create:mechanical_bearing" }
+				type: "item"
+			}
+			{
+				consume_items: true
+				id: "79D3F414CBFBE661"
+				item: { count: 1, id: "simulated:analog_transmission" }
+				type: "item"
+			}
+			{
+				consume_items: true
+				count: 4L
+				id: "351B3553C748F0D9"
+				item: { count: 1, id: "simulated:cyan_portable_engine" }
+				type: "item"
+			}
+			{
+				consume_items: true
+				id: "636D410632E93E4B"
+				item: { count: 1, id: "aeronautics:propeller_bearing" }
+				type: "item"
+			}
+			{
+				consume_items: true
+				id: "3C3DB9F39590AD57"
+				item: { components: { "minecraft:block_entity_data": { Keys: [ { FirstItem: { count: 1, id: "create:white_sail" }, GLFWKey: 264, SecondItem: { count: 1, id: "simulated:red_portable_engine" } }, { FirstItem: { count: 1, id: "create:mechanical_bearing" }, GLFWKey: 65, SecondItem: { count: 1, id: "simulated:white_symmetric_sail" } }, { FirstItem: { count: 1, id: "simulated:white_symmetric_sail" }, GLFWKey: 83, SecondItem: { count: 1, id: "simulated:torsion_spring" } }, { FirstItem: { count: 1, id: "simulated:white_symmetric_sail" }, GLFWKey: 68, SecondItem: { count: 1, id: "create:mechanical_bearing" } }, { FirstItem: { count: 1, id: "simulated:torsion_spring" }, GLFWKey: 87, SecondItem: { count: 1, id: "simulated:white_symmetric_sail" } } ], id: "simulated:linked_typewriter", typedEntry: "WSWDAASWDWWWADWWWWWWWWAA" } }, count: 1, id: "simulated:linked_typewriter" }
+				type: "item"
+			}
+			{
+				consume_items: true
+				id: "6A57582EC09BF911"
+				item: { count: 1, id: "create:rotation_speed_controller" }
+				type: "item"
+			}
+			{
+				consume_items: true
+				id: "54F1FAA56E6B8905"
+				item: { count: 1, id: "simulated:throttle_lever" }
+				type: "item"
+			}
+			{
+				consume_items: true
+				count: 2L
+				id: "6C6C0EDF73A9DCFB"
+				item: { count: 1, id: "simulated:torsion_spring" }
+				type: "item"
+			}
+			{
+				consume_items: true
+				count: 14L
+				id: "0FD30164CAE661C9"
+				item: { count: 1, id: "simulated:white_symmetric_sail" }
+				type: "item"
+			}
+		]
+		x: 4.0d
+		y: 1.0d
+	}]
+}
